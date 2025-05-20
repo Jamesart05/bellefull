@@ -1,0 +1,201 @@
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+  font-family: "poppins", sans-serif;
+  color: gray !important;
+  background-color: white !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: #000 !important;
+}
+
+.container-fluid {
+  padding: 2em !important;
+}
+
+.collapse {
+  margin-left: 40em !important;
+}
+
+nav {
+  background-color: rgb(219, 218, 218) !;
+}
+
+.navbar-nav a {
+  padding: 0 2em !important;
+  font-size: 1.2em !important;
+}
+
+.navbar-brand {
+  font-size: 1.6em !important;
+  margin: 0 0 0 4em;
+}
+
+.hero {
+  margin: 3em 0;
+}
+
+.hero-txt {
+  margin-top: 10em !important;
+  width: 100%;
+}
+
+.hero-txt h1 {
+  font-size: 3em !important;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.hero-txt p {
+  font-size: 1.5em !important;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+}
+
+.hero-img {
+  margin-top: 5em !important;
+  border-radius: 1em;
+  height: 30em;
+}
+
+.btn-danger,
+.btn-light {
+  margin-top: 3em;
+  padding: 0.6em 3.6em !important;
+  border-radius: 2em !important;
+  font-weight: bold !important;
+}
+
+.btn-light {
+  border: 0.1em solid gray !important;
+  margin-left: 1em;
+}
+
+.menu {
+  text-align: center;
+  margin: 2em 0;
+  font-size: 2.8em !important;
+  border-bottom: 0.1em solid rgb(175, 175, 175);
+  font-weight: 700;
+}
+
+.foods {
+  box-sizing: border-box;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  padding: 1em 0 4em 0;
+  border-radius: 1em;
+}
+
+.foods img {
+  width: 100%;
+  border-radius: 0.5em;
+}
+
+.foods h4 {
+  font-size: 1.6em !important;
+  font-weight: 700;
+  padding: 1em 0 0.5em 0.5em;
+}
+
+.foods p {
+  font-size: 1.2em;
+  font-weight: 400;
+  padding: 0 0.5em 2em 0.5em;
+  color: #000;
+}
+
+.price {
+  padding: 0 0.5em;
+  display: flex;
+  gap: 5em;
+  align-items: center;
+}
+
+.foods button {
+  margin: 0 !important;
+  padding: 0;
+}
+
+.foods h5 {
+  font-size: 1.4em;
+  font-weight: 700;
+  padding: 0 0.5em;
+}
+
+.about-us {
+  margin: 8em 0;
+  text-align: center;
+}
+
+.about-us img {
+  width: 100%;
+  border-radius: 0.6em;
+}
+
+.about {
+  margin: 1em 0;
+  font-size: 2.8em;
+  font-weight: 700;
+  border-bottom: 0.1em solid rgb(175, 175, 175);
+  padding: 0 2em;
+}
+
+.about-txt {
+  font-size: 1.2em;
+  font-weight: 400;
+  padding: 0 2em;
+  color: #000;
+}
+
+.contact {
+  background-color: rgb(246, 127, 127);
+  color: white;
+  font-weight: bold;
+  padding: 2em 15em !important;
+}
+
+.contact-title {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 1em 0;
+}
+
+.footer {
+  padding: 4em;
+  text-align: center;
+}
+
+.footer h3 {
+  color: #000;
+  font-size: 2.4em;
+  font-weight: 500;
+  margin-bottom: 1em;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  margin-bottom: 2em;
+}
+
+.footer a {
+  color: #000;
+  font-size: 1.1em;
+  margin-left: 1em;
+}
+
+.copy {
+  color: #000;
+  font-size: large;
+  margin-top: 0.2em;
+}
